@@ -1,0 +1,22 @@
+=== RGB Evaluation Metrics ===
+
+Overall Accuracy: 98.43%
+Macro F1-score:  0.9833
+
+Floor           | IoU: 99.59% | Precision: 99.80% | Recall: 99.79% | F1: 99.80%
+Wall            | IoU: 97.51% | Precision: 97.87% | Recall: 99.62% | F1: 98.74%
+Column          | IoU: 99.76% | Precision: 99.87% | Recall: 99.89% | F1: 99.88%
+RoboDog         | IoU: 98.01% | Precision: 98.71% | Recall: 99.29% | F1: 99.00%
+Screen+Stand    | IoU: 89.08% | Precision: 98.57% | Recall: 90.25% | F1: 94.23%
+
+Confidence Statistics:
+  min: 1.0
+  max: 1.0
+  mean: 1.0
+  std: 0.0
+
+Entropy Statistics:
+  min: -1.000000082240371e-09
+  max: -1.000000082240371e-09
+  mean: -1.000000082240389e-09
+  std: 1.7991178323028352e-23
