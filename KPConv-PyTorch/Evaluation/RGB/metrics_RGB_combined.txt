@@ -1,0 +1,9 @@
+=== Combined RGB Evaluation ===
+Overall Accuracy: 96.64%
+Macro F1-score: 94.21%
+
+Floor           IoU: 99.54% P: 99.73% R: 99.81% F1: 99.77%
+Wall            IoU: 94.72% P: 95.56% R: 99.07% F1: 97.29%
+Column          IoU: 98.90% P: 99.44% R: 99.46% F1: 99.45%
+Robo Dog        IoU: 72.88% P: 84.42% R: 84.20% F1: 84.31%
+Screen+Stand    IoU: 82.20% P: 98.51% R: 83.24% F1: 90.23%

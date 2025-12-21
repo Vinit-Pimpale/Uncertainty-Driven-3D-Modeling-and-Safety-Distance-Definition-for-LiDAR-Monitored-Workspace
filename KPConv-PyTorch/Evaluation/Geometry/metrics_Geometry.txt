@@ -1,0 +1,23 @@
+=== Geometry Inference Evaluation (Single Prediction) ===
+
+Overall Accuracy: 61.64%
+Macro F1-score:  46.64%
+
+Per-class Metrics:
+  Floor           | IoU: 94.96% | Precision: 97.04% | Recall: 97.79% | F1: 97.42%
+  Wall            | IoU: 57.80% | Precision: 59.99% | Recall: 94.07% | F1: 73.26%
+  Column          | IoU:  3.72% | Precision: 22.77% | Recall:  4.25% | F1:  7.17%
+  Robo Dog        | IoU: 35.92% | Precision: 57.98% | Recall: 48.56% | F1: 52.86%
+  Screen+Stand    | IoU:  1.26% | Precision: 40.29% | Recall:  1.28% | F1:  2.49%
+
+Confidence Statistics:
+    min: 0.2520
+    max: 1.0000
+   mean: 0.9513
+    std: 0.1058
+
+Entropy Statistics:
+    min: -0.0000
+    max: 0.3679
+   mean: 0.0408
+    std: 0.0810

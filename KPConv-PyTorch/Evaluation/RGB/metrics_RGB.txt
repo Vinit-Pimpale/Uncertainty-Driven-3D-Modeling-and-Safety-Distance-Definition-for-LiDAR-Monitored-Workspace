@@ -1,0 +1,23 @@
+=== RGB Inference Evaluation (Single Prediction) ===
+
+Overall Accuracy: 96.65%
+Macro F1-score:  94.21%
+
+Per-class Metrics:
+  Floor           | IoU: 99.54% | Precision: 99.73% | Recall: 99.81% | F1: 99.77%
+  Wall            | IoU: 94.72% | Precision: 95.57% | Recall: 99.07% | F1: 97.29%
+  Column          | IoU: 98.90% | Precision: 99.44% | Recall: 99.46% | F1: 99.45%
+  Robo Dog        | IoU: 72.88% | Precision: 84.24% | Recall: 84.38% | F1: 84.31%
+  Screen+Stand    | IoU: 82.21% | Precision: 98.53% | Recall: 83.23% | F1: 90.24%
+
+Confidence Statistics:
+    min: 0.2815
+    max: 1.0000
+   mean: 0.9991
+    std: 0.0126
+
+Entropy Statistics:
+    min: -0.0000
+    max: 0.3679
+   mean: 0.0008
+    std: 0.0102
