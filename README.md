@@ -2,7 +2,7 @@
 
 This repository provides an uncertainty-aware pipeline for processing LiDAR point clouds, performing semantic segmentation, and defining probabilistic safety envelopes for human-robot collaboration.
 
-## 🚀 Pipeline Flow
+## Pipeline Flow
 
 The execution follows a logical progression from raw data processing to final safety zone visualization:
 
@@ -29,7 +29,7 @@ The execution follows a logical progression from raw data processing to final sa
 
 ---
 
-## 📂 Detailed File Descriptions
+## Detailed File Descriptions
 
 ### Core Pipeline & Modeling
 * **`run_full_pipeline.py`**: Automates stages 1 through 7, including PLY checking, renaming, preprocessing, GT generation, and inference.
